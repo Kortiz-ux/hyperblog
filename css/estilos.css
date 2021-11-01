@@ -2,9 +2,6 @@ body
 {
   color:#333;
   text-align: center;
-<<<<<<< HEAD
-  font-family: "Courier";  
-=======
   font-family: "Arial";  
   font-size: 16px;
   margin: 0;
@@ -31,5 +28,4 @@ font-weight: normal;
 }
 #container h1{
     font-size: 20px;
->>>>>>> cabecera
 }
